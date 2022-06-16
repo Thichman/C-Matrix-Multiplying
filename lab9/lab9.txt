@@ -1,0 +1,5 @@
+both are me Tyson
+
+
+My is more efficient then if I were working with floating point numbers due to the faster latency time. This would change if we were working with division due to the rounding and possibility of numbers that don't divide well. 
+Eahc time that my loop runs its CPE is at about 1.01 and this gets multiplied by how many steps it takes to finish and this is pretty efficient because it is only multiplying ints.
